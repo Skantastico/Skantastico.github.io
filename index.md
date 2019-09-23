@@ -24,6 +24,10 @@ Next: [A Random Walk Down Wall Street by Burton Malkiel](https://www.amazon.com/
 
 ## Useful Links
 
+[What is Bitcoin Anyway ?](https://www.lopp.net/bitcoin-information.html)
+
+[How Did Kepler Discover Planets](https://www.nasa.gov/mission_pages/kepler/overview/index.html)
+
 
 ## Contact
 
