@@ -8,8 +8,10 @@ I'm into bitcoin and astronomy.
 
 
 ## Things I'm Working On
-Fleshing out this Portfolio Site
+Fleshing out this Portfolio Page
+
 My Current Lambda Sprint
+
 [Making This Kepler Exoplanet Data Set Interesting](https://data.world/markmarkoh/kepler-confirmed-planets)
 
 ## Currently Reading
