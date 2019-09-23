@@ -1,16 +1,25 @@
-# Ryan Herr
+#  Data Science and Errata
 
-I'm a data scientist and [banjo player](https://twitter.com/rrherr/status/1072128383428059136) from Normal, Illinois. Ever since I first programmed LOGO turtles on an Apple IIe, I've loved mixing code, math, and art in interactive environments.
+Hi. I'm Ivan. I'm currently studying to be a Data Scientist @LambdaSchool. 
 
-I teach at [Lambda School](https://lambdaschool.com/). I'm interested in how software can give creative feedback to help learners practice new skills.
+My background is in physics and aviation (air traffic). 
 
-## Projects
+I'm into bitcoin and astronomy.
+
+
+## Things I'm Working On
 
 Deconstruct, May 2018: [Let's Program a Banjo Grammar](https://rrherr.github.io/banjo-grammar/)  
 Strange Loop, September 2018: [Picasso, Geometry, Jupyter](https://rrherr.github.io/picasso/)  
 How It Actually Works, March 2019: [Swings are Free](https://www.howitactuallyworks.com/archives/swings_are_free.html)  
 
+## Useful Links
+
+
 ## Contact
 
-Twitter: [@rrherr](https://twitter.com/rrherr)  
-Email: [rrherr@gmail.com](mailto:rrherr@gmail.com)
+Twitter: [@Skantastico](https://twitter.com/Skantastico)  
+
+Email: [Skantastico@gmail.com](mailto:Skantastico@gmail.com)
+
+Github: [Skantastico](https://github.com/Skantastico)
