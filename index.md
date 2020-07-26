@@ -1,38 +1,41 @@
 #  Data Science and Errata
 
-Hi. I'm Ivan. I'm currently studying to be a Data Scientist @LambdaSchool. 
+Hi. I'm Ivan. I'm currently studying to be a Data Scientist @LambdaSchool.
 
-My background is in physics and aviation (air traffic). 
+My background is in physics and aviation (air traffic).
 
-I'm into bitcoin and astronomy.
+I'm into open source projects (bitcoin, Linux) woodworking and secondbraining (currenlty using Roam).
 
 
-## Things I'm Working On
-Fleshing out this Portfolio Page
+## Projects I've Worked On
+-Anime Rating predictor (IMDB-style dataset)
+[Link to Medium](https://medium.com/@incertophile/predicting-anime-ratings-from-myanimelist-data-7bbb6434f258) | [Github](https://github.com/Skantastico/Unit-2-Dataset-Project)
 
-My Current Lambda Sprint
+-Subreddit Reccomendation Engine (given Title and sample text, suggest a subreddit to post in) [Link](https://post-here.spentaur.workers.dev/recommend?) | [Github](https://github.com/bw-post-here-1/Data-ML)
 
-[Making This Kepler Exoplanet Data Set Interesting](https://data.world/markmarkoh/kepler-confirmed-planets)
+-Sudoku app with image recognition upload functionality (Lab project, in progress) [Link](https://www.sudomega.com/) | [Github](https://github.com/Lambda-School-Labs/omega2020-ds)
+
+-LambdaSchool [Curriculum](https://lambdaschool.com/curriculum)
+
+-Being a new dad! (Bodin Cypher born July 18, 2020)
 
 ## Currently Reading
 
-[Tribe by Sebastian Junger](https://www.amazon.com/Tribe-Homecoming-Belonging-Sebastian-Junger-ebook/dp/B01BCJDSNI)
+[Bull**** Jobs by David Graeber](https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber/dp/150114331X)
 
-Previous: [Never Split the Difference by Chris Voss](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
+Previous: [Atomic Habits by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 
-Next: [A Random Walk Down Wall Street by Burton Malkiel](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
+Next: [Thinking in Bets by Annie Duke](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216355)
 
 ## Useful Links
 
 [What is Bitcoin, Anyway ?](https://www.lopp.net/bitcoin-information.html)
 
-[How Did The Kepler Telescope Discover Planets?](https://www.nasa.gov/mission_pages/kepler/overview/index.html)
+[Brief Overview on Roam](https://www.nateliason.com/blog/roam)
+
+[What is Secondbraining?](https://fortelabs.co/blog/basboverview/)
 
 
 ## Contact
 
-Twitter: [@Skantastico](https://twitter.com/Skantastico)  
-
-Email: [Skantastico@gmail.com](mailto:Skantastico@gmail.com)
-
-Github: [Skantastico](https://github.com/Skantastico)
+Twitter: [@Algorant](https://twitter.com/Algorant) | Github: [Skantastico](https://github.com/Skantastico)  |  Email: [Ivan.Salv.Santos@gmail.com](mailto:ivansalvsantos@gmail.com) | Linkedin: [Ivan Santos](https://www.linkedin.com/in/ivan-s-santos/)
