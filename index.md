@@ -9,11 +9,11 @@ I'm into open source projects (bitcoin, Linux) woodworking and secondbraining (c
 
 ## Projects I've Worked On
 -Anime Rating predictor (IMDB-style dataset)
-[Link to Medium](https://medium.com/@incertophile/predicting-anime-ratings-from-myanimelist-data-7bbb6434f258) | [Github](https://github.com/Skantastico/Unit-2-Dataset-Project)
+[Link to Medium](https://medium.com/@incertophile/predicting-anime-ratings-from-myanimelist-data-7bbb6434f258) \| [Github](https://github.com/Skantastico/Unit-2-Dataset-Project)
 
--Subreddit Reccomendation Engine (given Title and sample text, suggest a subreddit to post in) [Link](https://post-here.spentaur.workers.dev/recommend?) | [Github](https://github.com/bw-post-here-1/Data-ML)
+-Subreddit Reccomendation Engine (given Title and sample text, suggest a subreddit to post in) [Link](https://post-here.spentaur.workers.dev/recommend?) \| [Github](https://github.com/bw-post-here-1/Data-ML)
 
--Sudoku app with image recognition upload functionality (Lab project, in progress) [Link](https://www.sudomega.com/) | [Github](https://github.com/Lambda-School-Labs/omega2020-ds)
+-Sudoku app with image recognition upload functionality (Lab project, in progress) [Link](https://www.sudomega.com/) \| [Github](https://github.com/Lambda-School-Labs/omega2020-ds)
 
 -LambdaSchool [Curriculum](https://lambdaschool.com/curriculum)
 
@@ -38,4 +38,4 @@ Next: [Thinking in Bets by Annie Duke](https://www.amazon.com/Thinking-Bets-Maki
 
 ## Contact
 
-Twitter: [@Algorant](https://twitter.com/Algorant) | Github: [Skantastico](https://github.com/Skantastico)  |  Email: [Ivan.Salv.Santos@gmail.com](mailto:ivansalvsantos@gmail.com) | Linkedin: [Ivan Santos](https://www.linkedin.com/in/ivan-s-santos/)
+Twitter: [@Algorant](https://twitter.com/Algorant) \| Github: [Skantastico](https://github.com/Skantastico)  \|  Email: [Ivan.Salv.Santos@gmail.com](mailto:ivansalvsantos@gmail.com) \| Linkedin: [Ivan Santos](https://www.linkedin.com/in/ivan-s-santos/)

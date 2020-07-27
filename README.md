@@ -1,7 +1,7 @@
-# Skantastico.github.io
+# Hey there. My name is Ivan
 
-Hey there.
+If you are here it's likely to check out my work.
 
-This is a work in progress, but eventually it'll be a nice portfolio site.  
+You can view it at Skantastico.github.com
 
 Thanks for visiting!
