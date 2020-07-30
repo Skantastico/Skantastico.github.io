@@ -4,7 +4,7 @@ Hi. I'm Ivan. I'm currently studying to be a Data Scientist @LambdaSchool.
 
 My background is in physics and aviation (air traffic).
 
-I'm into open source projects (bitcoin, Linux) woodworking and secondbraining (currenlty using Roam).
+I'm into open source projects (Bitcoin, Linux) woodworking and secondbraining (currently using Roam).
 
 
 ## Projects I've Worked On
@@ -17,7 +17,7 @@ I'm into open source projects (bitcoin, Linux) woodworking and secondbraining (c
 
 -LambdaSchool [Curriculum](https://lambdaschool.com/curriculum)
 
--Being a new dad! (Bodin Cypher born July 18, 2020)
+-Being a new dad! (Bodin Cypher Santos born July 18, 2020)
 
 ## Currently Reading
 
