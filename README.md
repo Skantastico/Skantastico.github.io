@@ -2,6 +2,6 @@
 
 If you are here it's likely to check out my work.
 
-You can view it at Skantastico.github.com
+You can view it at [Skantastico.github.com](https://skantastico.github.io)
 
 Thanks for visiting!
